@@ -1,6 +1,5 @@
-omdsck
-dsdmfmfmf
+#include <iostream>
+using namespace std;
+int main(){
 
-vytf6c6ce65
-
-orco
+}
